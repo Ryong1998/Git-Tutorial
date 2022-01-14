@@ -9,3 +9,5 @@ print("div") #주주주주서거석석
 practice
 
 practice2
+
+practice3
